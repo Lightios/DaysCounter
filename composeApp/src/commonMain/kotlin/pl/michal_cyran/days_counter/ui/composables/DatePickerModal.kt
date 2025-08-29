@@ -1,4 +1,4 @@
-package pl.michal_cyran.days_counter.ui
+package pl.michal_cyran.days_counter.ui.composables
 
 import androidx.compose.material3.DatePicker
 import androidx.compose.material3.DatePickerDialog
